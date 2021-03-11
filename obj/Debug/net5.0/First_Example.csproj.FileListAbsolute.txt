@@ -1,0 +1,16 @@
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\bin\Debug\net5.0\First_Example.exe
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\bin\Debug\net5.0\First_Example.deps.json
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\bin\Debug\net5.0\First_Example.runtimeconfig.json
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\bin\Debug\net5.0\First_Example.runtimeconfig.dev.json
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\bin\Debug\net5.0\First_Example.dll
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\bin\Debug\net5.0\ref\First_Example.dll
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\bin\Debug\net5.0\First_Example.pdb
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\obj\Debug\net5.0\First_Example.csprojAssemblyReference.cache
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\obj\Debug\net5.0\First_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\obj\Debug\net5.0\First_Example.AssemblyInfoInputs.cache
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\obj\Debug\net5.0\First_Example.AssemblyInfo.cs
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\obj\Debug\net5.0\First_Example.csproj.CoreCompileInputs.cache
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\obj\Debug\net5.0\First_Example.dll
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\obj\Debug\net5.0\ref\First_Example.dll
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\obj\Debug\net5.0\First_Example.pdb
+C:\Users\gerar\Pictures\Workspace\POO-Ciclo\Game Of Tech\Optativas\Ejercicio-GitHub\First_Example\obj\Debug\net5.0\First_Example.genruntimeconfig.cache
